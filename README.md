@@ -1,4 +1,6 @@
-# HTML5 Asteroids
+# how-to-use-git-and-github--asteroids
+
+This repository contains the _asteroids_ assigments of the  [Udacity](http://www.udacity.com) course [_How to use git and github_](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
 This game was created Doug McInnes. His code can be found
 [here](https://github.com/dmcinnes/HTML5-Asteroids), and you can play his
